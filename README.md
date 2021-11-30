@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @nistype
-- 👀 I am interested in all languages.
-- 😈 I am often on codeine but do not be careful.
-- 📫 HDevelopment request under quotation.
+
